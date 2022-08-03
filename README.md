@@ -1,4 +1,4 @@
-# Project-1
+# America's air quality analysis
 BCS Bootcamp first project analyzing Air Quality in America
 
 # Background
